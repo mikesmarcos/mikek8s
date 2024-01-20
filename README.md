@@ -11,7 +11,8 @@ Todos foram usados em algum momento em labs, e vou tentar manter o mais organiza
 - 19/01/2024 - Criado domínio que será usado para alguns testes: mikek8s.win
 
 ## Requirements & Prerequisites
-+ Terraform - [terraform.io](https://terraform.io) - [Hashicorp](https://developer.hashicorp.com/terraform?product_intent=terraform)
++ Terraform (IaC tool) - [terraform.io](https://terraform.io) - [Hashicorp](https://developer.hashicorp.com/terraform?product_intent=terraform)
++ tfenv (Easy access to Terraform versions) - [tfenv](https://github.com/tfutils/tfenv)
 
 ## References
 - [https://developer.hashicorp.com/terraform/docs]()
