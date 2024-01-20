@@ -1,5 +1,5 @@
 # mikek8s
-Estudo de casos para aprendizado utilizando ferramentas e conceitos DevOps
+Labs para aprendizado utilizando ferramentas e conceitos DevOps
 ===
 Este repositório tem propósito de armazenar códigos IaC, snippets, manifestos, etc.
 Todos foram usados em algum momento em labs, e vou tentar manter o mais organizado possível em pastas e de maneira lógica.
