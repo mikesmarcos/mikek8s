@@ -23,4 +23,4 @@ Todos foram usados em algum momento em labs, e vou tentar manter o mais organiza
 - [https://github.com/aquasecurity/tfsec]()
 - [https://github.com/Rapha-Borges/oke-free]
 - [https://github.com/badtuxx]
-- [linuxtips.io]
+- [https://linuxtips.io]
